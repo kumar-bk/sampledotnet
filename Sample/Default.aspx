@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>MY TITLE - MY PAGE</h1>
+    <h1>MY TITLE - MY Project</h1>
     <div>
     <p>THis is my new page 
     </p></div>

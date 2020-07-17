@@ -3,3 +3,8 @@ F:\development\Sample\Sample\bin\Sample.pdb
 F:\development\Sample\Sample\obj\Debug\ResolveAssemblyReference.cache
 F:\development\Sample\Sample\obj\Debug\Sample.dll
 F:\development\Sample\Sample\obj\Debug\Sample.pdb
+F:\Development\sampledotnet\Sample\bin\Sample.dll
+F:\Development\sampledotnet\Sample\bin\Sample.pdb
+F:\Development\sampledotnet\Sample\obj\Debug\ResolveAssemblyReference.cache
+F:\Development\sampledotnet\Sample\obj\Debug\Sample.dll
+F:\Development\sampledotnet\Sample\obj\Debug\Sample.pdb
